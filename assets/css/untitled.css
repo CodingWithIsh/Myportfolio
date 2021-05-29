@@ -1,6 +1,11 @@
 .text-center.footer {
 }
 
+h1{
+    -webkit-text-stroke: 2px rgb(255, 255, 255);
+
+    color: transparent;
+}
 .text-center.footer {
 }
 
